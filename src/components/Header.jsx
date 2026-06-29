@@ -1,4 +1,4 @@
-import { NavLink } from "react-router";
+import { NavLink, Link } from "react-router";
 import styles from "./Header.module.css";
 
 export default function Header() {
